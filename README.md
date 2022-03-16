@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sushomeister
 - 👀 I’m interested in computer games, astronomy, technologies and programming
-- 🌱 I’m currently learning C/C++, Java
+- 🌱 I’m currently learning C++ and Java
 - 📱 Telegram: https://t.me/sushinskiyigor
 - 📱 Twitter: https://twitter.com/sushinskiyigor
 - 📱 Instagram: https://instagram.com/sushinskiyigor
