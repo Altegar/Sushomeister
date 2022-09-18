@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Altegar
 - 👀 I’m interested in computer games, astronomy, technologies and programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 - 📱 Telegram: https://t.me/altegarofficial
 - 📱 Instagram: https://instagram.com/altegarofficial
 - 📱 TikTok: https://tiktok.com/@altegarofficial
