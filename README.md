@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Altegar
-- 👀 I’m interested in computer games, astronomy, technologies and programming
+- 👀 I’m interested in programming, computer games, anime, astronomy, and technologies 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 - 📱 Telegram: https://t.me/altegarofficial
 - 📱 Instagram: https://instagram.com/altegarofficial
