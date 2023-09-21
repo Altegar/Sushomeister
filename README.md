@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Altegar
 - 👀 I’m interested in programming, computer games, anime, astronomy, and technologies 
-- 🌱 I’m currently learning Front-End Development Tools, such as HTML, CSS, and TypeScript
+- 🌱 I’m currently learning Front-End Development Tools, such as HTML, CSS, and JavaScript/TypeScript
 - 📱 Telegram: https://t.me/altegarofficial
 - 📱 Instagram: https://instagram.com/altegarofficial
 - 📱 TikTok: https://tiktok.com/@altegarofficial
