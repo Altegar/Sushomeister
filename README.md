@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Altegar
-- 👀 I’m interested in programming, computer games, anime, astronomy, and technologies 
+- 👀 I’m interested in programming, computer science, video games, anime/manga, astronomy, and technologies 
 - 🌱 I’m currently learning Rust and its tools
 - 📱 Telegram: https://t.me/altegarofficial
 - 📱 Instagram: https://instagram.com/altegarofficial
+- 📱 Threads: https://www.threads.net/@altegarofficial
 - 📱 TikTok: https://tiktok.com/@altegarofficial
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altegar&show_icons=true&theme=cobalt2)
