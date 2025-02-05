@@ -23,6 +23,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altegar&show_icons=true&theme=transparent&border_radius=8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altegar&theme=transparent&layout=compact&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Altegar&theme=transparent&border_radius=8)](https://git.io/streak-stats)
 
 <h2 align="left">🚀&nbsp;Languages and Tools I Have Used and Learned</h3>
 <p align="left">
