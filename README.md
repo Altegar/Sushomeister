@@ -21,7 +21,7 @@
   <a href="https://www.leetcode.com/altegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="altegar" height="40" width="40"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altegar&theme=transparent&layout=compact&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altegar&theme=transparent&layout=donut&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altegar&show_icons=true&theme=transparent&border_radius=8)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Altegar&theme=transparent&border_radius=8)](https://git.io/streak-stats)
 
